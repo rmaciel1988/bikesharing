@@ -1,4 +1,5 @@
 appnope @ file:///Users/runner/miniforge3/conda-bld/appnope_1635819647402/work
+autopep8==1.6.0
 backcall @ file:///home/conda/feedstock_root/build_artifacts/backcall_1592338393461/work
 backports.entry-points-selectable==1.1.1
 backports.functools-lru-cache @ file:///home/conda/feedstock_root/build_artifacts/backports.functools_lru_cache_1618230623929/work
@@ -25,6 +26,7 @@ platformdirs==2.4.0
 pre-commit==2.16.0
 prompt-toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1636045889479/work
 ptyprocess @ file:///home/conda/feedstock_root/build_artifacts/ptyprocess_1609419310487/work/dist/ptyprocess-0.7.0-py2.py3-none-any.whl
+pycodestyle==2.8.0
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1629119114968/work
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1626286286081/work
 PyYAML==6.0
