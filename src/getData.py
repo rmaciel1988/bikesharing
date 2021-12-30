@@ -5,8 +5,8 @@ import zipfile
 
 def download():
     try:
-        url = "https://archive.ics.uci.edu/ml/machine-learning-\
-        databases/00275/Bike-Sharing-Dataset.zip"
+        url = "https://archive.ics.uci.edu/ml/machine-learning-databases/00275/\
+        Bike-Sharing-Dataset.zip"
         out_dir = "../data/"
         unzip_dir = "../data/BSD/"
         wget.download(url, out=out_dir)
